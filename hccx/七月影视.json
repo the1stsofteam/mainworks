@@ -16,17 +16,17 @@
     
     "影片类型":"video-tag-icon\">&&立即播放",
     
-    "数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">",
+    "数组":"<a&&</div></div></a>",
     
-    "副标题":"module-item-text\">&&</div>",
+    "副标题":"module-item-note\">&&</div>",
     
     "搜索url":"/index.php/vod/search.html?wd={wd}",
     
-    "搜索数组":"lazy lazyload\"&&<h3>",
+    "搜索数组":"module-card-item-class\">&&</a>",
     
     "搜索标题":"alt=\"&&\"",
     
-    "搜索副标题":"<a class=\"video-serial\" *>&&</a>",
+    "搜索副标题":"module-item-note\">&&</div>",
     
     "线路标题":"荷城茶秀接口-+<span>&&</small>[替换:本地>>专线#（快）>>(推荐)#</span><small>>>🌸共]+集🌸",
     
