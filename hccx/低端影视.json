@@ -4,7 +4,7 @@
     
     "站名":"低端影视",
     
-    "主页url":"http://www.jinyanw.com/",
+    "主页url":"https://www.jinyanw.com/",
     
     "简介":"【荷城茶秀】提醒您请勿相信影片中的广告，以免上当受骗！欢迎加入QQ交流群：869277279，公众号：日后魔改，获取更多影视资源。+none;\">&&本站收藏",
     
@@ -26,7 +26,7 @@
     
     "副标题":"pic-text text-right\"&&</span>",
     
-    "图片":"data-original=\"&&\"[替换:/img.php?url=>>空]",
+    "图片":"data-original=\"&&\"",
     
     "链接":"href=\"&&\"",
     
@@ -52,7 +52,7 @@
     
     "播放列表":"<li&&</li>",
     
-    "分类url":"http://www.jinyanw.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;akm0",
+    "分类url":"https://www.jinyanw.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;akm0",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
